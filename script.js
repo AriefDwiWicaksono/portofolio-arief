@@ -4,7 +4,7 @@ function whatsApp() {
     var number = document.getElementById('number').value;
     var message = document.getElementById('message').value;
 
-    var whatsapp = "https://wa.me/6282113285557?text="
+    var whatsapp = "https://wa.me/6285892494792?text="
     + "Nama: " + nama + "%0a"
     + "Email: " + email + "%0a"
     + "Number: " + number + "%0a"

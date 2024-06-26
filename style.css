@@ -408,6 +408,9 @@ body {
   
   .overlay {
     position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -429,6 +432,10 @@ body {
   
   .overlay p {
     font-size: 0.8rem;
+  }
+
+  .overlay a {
+    color: white;
   }
 
   .k {
